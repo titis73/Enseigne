@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+version = "0.1"
+name = "enseigne"
+requires-python = ">=3.8"
+maintainers = [
+  { name = "Mathis Mercier", email = "mathis.mercier@etu.univ-savoie.fr" },
+  { name = "Josquin Le-Dantec", email = "josquin.le-dantec@etu.univ-savoie.fr" }
+]
+description = "TD0 M2 MMAA INFO901 : Enseigne"
+readme = "README.md"
+license = { text = "MIT" }
+
+[project.urls]
+Repository = "https://github.com/titis73/Enseigne"
+
+[project.scripts]
+enseigne = "enseigne.__main__:main"
