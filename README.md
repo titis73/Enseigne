@@ -55,11 +55,28 @@ Enseigne/
 | Dictionnaire | Jodie, Judith, Lilou, Anaïs |
 | Diagramme UML (Use Case) | ???? |
 | Diagramme UML (Séquence) | ???? |
-| Diagramme UML (Classe) | ???? |
-| Scrum Master | ???? |
-| Product Owner | ???? |
-| Programme principal | ???? |
-| Classes | ???? |
+| Diagramme UML (Classe) | Salihou + Mathis |
+| Scrum Master |  Jodie + Séphora |
+| Product Owner | Dimitri + Mathis |
+| Programme principal | Josquin + Jodie |
+
+
+
+| Classe | Personnes |
+|----------|-------------|
+| Vente | Anaïs |
+| Client | Lilou |
+| Achat| Séphora |
+| Produit | Dimitri |
+| ClasseMetier | Mathieu |
+| Vendeur |  Assil |
+| VendeurResponsable| Josquin |
+| Rayon | Mathis |
+| Activite | Yoliza |
+| Magasin | Jodie |
+| SiteInternet | Judith |
+
+
 
 ## Comment contribuer
 *Note importante : On ne code jamais directement sur la branche principale. Le travail s'organise par version/semaine (ex: `S42` pour la semaine 42, puis `S46` pour la semaine suivante).*
