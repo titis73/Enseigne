@@ -10,7 +10,6 @@ class Rayon:
         """Constructeur de la classe Rayon.
 
         Args:
-            code_rayon: code unique d'un rayon dans toute l'enseigne.
             nom: Nom du rayon (ex: Football, Natation, etc.).
         """
         Rayon._compteur += 1
